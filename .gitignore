@@ -1,3 +1,9 @@
+0Docs/
+ApacheTomcat/
+
+# sonar
+.scannerwork/
+
 # Compiled output
 dist/
 build/
